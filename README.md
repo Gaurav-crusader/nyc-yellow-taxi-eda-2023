@@ -1,11 +1,11 @@
-# 🚕 NYC Yellow Taxi — Exploratory Data Analysis (2023)
+#  NYC Yellow Taxi — Exploratory Data Analysis (2023)
 
 Exploratory Data Analysis on 2023 NYC Yellow Taxi trip records to uncover
 operational, pricing, and passenger-experience insights.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 As part of a simulated analyst role at a taxi operation entering the NYC
 market, this project analyses the full year of 2023 Yellow Taxi trip data
@@ -15,7 +15,7 @@ demand patterns.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform end-to-end EDA on large-scale real-world trip data
 - Identify patterns in demand, trip duration, fare structure, and tipping
@@ -24,7 +24,7 @@ demand patterns.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 nyc-yellow-taxi-eda-2023/
 │
 ├── NYC_Taxi_EDA_Solved.ipynb   # Main analysis notebook
@@ -33,7 +33,7 @@ nyc-yellow-taxi-eda-2023/
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -46,7 +46,7 @@ nyc-yellow-taxi-eda-2023/
 
 ---
 
-## 📊 Key Steps
+## Key Steps
 
 1. **Data Loading** — Stratified sampling across 12 monthly Parquet files
 2. **Data Cleaning** — Fix duplicate columns, negative fares, missing values
@@ -57,7 +57,7 @@ nyc-yellow-taxi-eda-2023/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -91,15 +91,15 @@ jupyter notebook NYC_Taxi_EDA_Solved.ipynb
 
 ---
 
-## 📂 Data Source
+##  Data Source
 
 [NYC TLC Yellow Taxi Trip Records — 2023](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ---
 
-## 🙋 Author
+##  Author
 
-**Your Name**
+**Gaurav tode**
 • [GitHub](https://github.com/Gaurav-crusader)
 
 ---
