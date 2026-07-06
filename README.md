@@ -61,7 +61,7 @@ nyc-yellow-taxi-eda-2023/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/nyc-yellow-taxi-eda-2023.git
+git clone https://github.com/Gaurav-crusader/nyc-yellow-taxi-eda-2023.git
 cd nyc-yellow-taxi-eda-2023
 ```
 
@@ -103,7 +103,3 @@ jupyter notebook NYC_Taxi_EDA_Solved.ipynb
 • [GitHub](https://github.com/Gaurav-crusader)
 
 ---
-
-## 📃 License
-
-This project is open source under the [MIT License](LICENSE).
